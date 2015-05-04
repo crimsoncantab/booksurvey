@@ -11,11 +11,11 @@
             <div class="col-md-6">
                 <form action="food" method="post">
                     <div class="form-group">
-                        <input type="text" name="name" placeholder="Restaurant" required=""/>
+                        <input type="text" name="name" placeholder="Book Title" required=""/>
                     </div>
                     <div class="form-group">
-                        <input type="url" name="menu" placeholder="Menu URL"/>
-                        <input type="text" name="loc" placeholder="Address"/>
+                        <input type="url" name="menu" placeholder="Review URL"/>
+                        <input type="hidden" name="loc" placeholder="Address"/>
                     </div>
                     <div class="form-group">
                         <button type="submit" class="btn btn-lg btn-primary btn-block">Add</button>

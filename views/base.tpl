@@ -1,6 +1,6 @@
 <%
-setdefault('title', 'Lunch Survey')
-setdefault('subtitle', 'Team Awesome')
+setdefault('title', 'Book Club Survey')
+setdefault('subtitle', 'Team Master Builders')
 setdefault('style','')
 setdefault('script','')
 %>
